@@ -1,0 +1,25 @@
+{
+	"name": "is-whatwg-url",
+	"version": "0.0.0",
+	"description": "Is this value a WHATWG-standard URL object?",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inspect-js/is-whatwg-url.git"
+	},
+	"keywords": [
+		"url",
+		"whatwg",
+		"web",
+		"html"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inspect-js/is-whatwg-url/issues"
+	},
+	"homepage": "https://github.com/inspect-js/is-whatwg-url#readme"
+}
